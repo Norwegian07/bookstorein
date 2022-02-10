@@ -27,6 +27,7 @@
      position: fixed;
      top: 0;
      left: 0;
+     overflow-y: hidden;
 }
 .open{
     margin-left: 100px;
@@ -69,12 +70,50 @@ color: black;
 font-family: 'Times New Roman', Times, serif;
 }
 
-
-
-
-
-
-
+.grid1{
+    width: 96%;
+    height: 1200px;
+    border: 2px solid black;
+    margin: 2%;
+    box-shadow: 2px 5px 5px 10px black;
+    background-color: rgba(255, 20, 110, 0.9);
+    position: relative;
+    text-align: center;
+    border-radius: 100px 25px 10px 5px;
+    overflow: hidden;
+}
+.text2{
+color: white;
+font-size: 90px;
+width: 700px;
+font-weight: bolder;
+text-shadow: 10px 10px 15px black;
+margin-left: 12%;
+letter-spacing: 2px;
+word-spacing: 1px;
+}
+.text3{
+    font-size: 45px;
+    color: white;
+}
+.grid1-imgs{
+    width: 100%;
+    margin-top: 50px;
+}
+.img{
+    float: left;
+    padding-left: 40px;
+}
+.text4{
+    color: white;
+    font-size: 45px;
+  margin: 450px 0px 25px 300px;
+  position: absolute;
+  font-family: 'Times New Roman', Times;
+}
+.text4:hover{
+    text-decoration: underline;
+}
 
 
 }
