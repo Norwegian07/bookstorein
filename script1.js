@@ -1,6 +1,6 @@
 function openNav(){
-    document.getElementById("navbar").style.width = "60%"
+    document.getElementById("navbar").style.height = "50%"
 }
 function closeNav(){
-    document.getElementById("navbar").style.width = "0%"
+    document.getElementById("navbar").style.height = "0%"
 }
