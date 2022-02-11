@@ -271,6 +271,17 @@ h2{
 .word3{
     color: white;
     font-size: 56px;
+    margin: -8px 0px 0px 0px;
+}
+.swipe-imgs a{
+    color: white;
+    font-size: 24px;
+    text-decoration: none;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.swipe-imgs a:hover{
+    text-decoration: underline;
 }
 /* ------------------------------ */
 
