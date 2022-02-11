@@ -186,8 +186,9 @@ color: white;
 .p2-grid1{
     width: 96%;
     margin: 2%;
-    height: 1500px;
+    height: 1300px;
     border: 2px solid white;
+    margin-bottom: 100px;
 }
 .p2-grid1 a{
     text-decoration: none;
@@ -202,7 +203,7 @@ color: white;
     margin: 2%;
 }
 .word2{
-    font-size: 50px;
+    font-size: 40px;
     color: white;
     letter-spacing: 1px;
     word-spacing: 2px;
