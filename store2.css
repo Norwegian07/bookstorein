@@ -103,6 +103,9 @@ margin-left: 1%;
 .img{
     float: left;
     padding-left: 40px;
+    border: 1px solid black;
+    border: none;
+    box-shadow: 5px 10px 15px rgb(14, 59, 104,0.4);
 }
 .text4{
     color: white;
@@ -129,12 +132,12 @@ margin-left: 1%;
 }
 .text5{
     font-size: 40px;
-    padding: 35px 80px 50px 0px;
+    padding: 50px 50px 50px 50px;
     color: white;
     font-family:'Times New Roman', Times;
     letter-spacing: 2px;
     word-spacing: 2px;
-    text-align: right;
+    text-align: center;
 
 }
 /* -------------- */
