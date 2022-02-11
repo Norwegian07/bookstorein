@@ -86,12 +86,12 @@ font-weight: bolder;
 .text2{
 color: white;
 font-size: 80px;
-width: 90%;
+width: 98%;
 font-weight: bolder;
 text-shadow: 10px 10px 15px black;
-letter-spacing: 2px;
+letter-spacing: 1px;
 word-spacing: 1px;
-margin-left: 2%;
+margin-left: 1%;
 }
 .text3{
     font-size: 45px;
@@ -128,8 +128,8 @@ margin-left: 2%;
     border-radius: 35px;
 }
 .text5{
-    font-size: 50px;
-    padding: 5px 50px 50px 0px;
+    font-size: 40px;
+    padding: 35px 80px 50px 0px;
     color: white;
     font-family:'Times New Roman', Times;
     letter-spacing: 2px;
@@ -170,7 +170,11 @@ height: 50px;
 padding: 20px;
 color: white;
 }
-
+.text6{
+    color: rgba(4, 102, 89, 0.685);
+    margin-top: 50px;
+    font-size: 36px;
+}
 
 
 
